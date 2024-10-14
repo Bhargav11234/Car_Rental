@@ -1,0 +1,50 @@
+/* admin.css */
+
+.w-100 {
+  width: 100%;
+}
+
+.vh-100 {
+  height: 100vh;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th, .table td {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.table th {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.table td {
+  transition: background-color 0.3s;
+}
+
+.table tr:hover td {
+  background-color: #f2f2f2;
+}
+
